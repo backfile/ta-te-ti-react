@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import './App.css'
 import { TURNS, COMBOS } from './constants/constants';
 import { Winner } from './components/Winner';
 import { Turns } from './components/Turns';
